@@ -23,6 +23,10 @@ Modules：模块。
 
 Class Modules：类模块
 与窗体模块类似，只是没有可见的用户界面。可以使用类模块创建含有方法和属性代码的自己的对象。
+
+## 使用类模块创建自定义对象[](https://docs.microsoft.com/zh-cn/office/vba/access/concepts/error-codes/program-with-class-modules#create-custom-objects-with-class-modules)
+
+您可以使用类模块来创建自定义对象的定义。 用于保存类模块的名称将成为自定义对象的名称。 在类模块中定义的 Public **Sub**和**Function**过程将成为该对象的自定义方法。 公共**属性 Let**、 **Property Get**和**property Set**过程将成为对象的属性。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NjY3MDI3XX0=
+eyJoaXN0b3J5IjpbLTEyOTE0NTkyMTcsNDU5NjY3MDI3XX0=
 -->
